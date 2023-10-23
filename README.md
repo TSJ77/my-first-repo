@@ -4,7 +4,6 @@ comments syntax
 
 
 
-
 # my-first-repo
 
 ## My List
@@ -16,3 +15,8 @@ comments syntax
 1. Cars
 2. Trucks
 3. Boats
+
+### My 2nd List
+
+- *Sprint Car*
+- **Late Model**
